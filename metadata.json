@@ -1,0 +1,7 @@
+{
+  "name": "3D Particle Interactive Flow",
+  "description": "A real-time interactive 3D particle system controlled by hand gestures or UI, featuring multiple shapes and image-to-particle conversion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
